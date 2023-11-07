@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/djmorris1989/universe
 	branch = HEAD
+[submodule "frsclean"]
+	path = frsclean
+	url = https://github.com/djmorris1989/frsclean
+[submodule "lsypeclean"]
+	path = lsypeclean
+	url = https://github.com/djmorris1989/lsypeclean
