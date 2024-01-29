@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/djmorris1989/universe
+	url = https://github.com/djmorris1989/djmorris1989.r-universe.dev
 	branch = HEAD
 [submodule "frsclean"]
 	path = frsclean
